@@ -19,3 +19,6 @@ This project showcases how to analyze the Digital Music Store Database. I have e
  9. Analyze the most popular genre for each country.
 10. Determine the customers who have spent the most on music in each country.
 
+# Schema
+![Schema](https://github.com/Inderpanda/Music-store-SQL-Project/assets/138003751/1acc0466-8dcc-4309-889a-407f1cbc74fd)
+
