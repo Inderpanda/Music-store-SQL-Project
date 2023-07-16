@@ -22,3 +22,20 @@ This project showcases how to analyze the Digital Music Store Database. I have e
 # Schema
 ![Schema](https://github.com/Inderpanda/Music-store-SQL-Project/assets/138003751/1acc0466-8dcc-4309-889a-407f1cbc74fd)
 
+# Easy Level Questions
+![1](https://github.com/Inderpanda/Music-store-SQL-Project/assets/138003751/3aae867a-e03e-4c20-bb9c-e467e20be4bd)
+
+
+# Moderate Level Questions
+![2](https://github.com/Inderpanda/Music-store-SQL-Project/assets/138003751/a4e59c8d-572c-4aa1-b566-633f0b4fa233)
+
+
+# Advanced Level Questions
+![3](https://github.com/Inderpanda/Music-store-SQL-Project/assets/138003751/4a2507ab-1993-4731-a180-1bc16a84b712)
+
+![4](https://github.com/Inderpanda/Music-store-SQL-Project/assets/138003751/cb3ced32-c84e-4e05-8230-e8b0624b61bb)
+
+
+
+
+
