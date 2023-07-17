@@ -19,6 +19,23 @@ This project showcases how to analyze the Digital Music Store Database. I have e
  9. Analyze the most popular genre for each country.
 10. Determine the customers who have spent the most on music in each country.
 
+  # Key Findings
+
+*Top Customers*: By analyzing customer purchase history and expenditure, identified  top customers based on their lifetime value and frequency of purchases. This information can be utilized to develop personalized marketing strategies, loyalty programs, and special offers to further engage and retain these valuable customers.
+
+*Revenue by Country*: By aggregating sales data and analyzing customer locations, determined the top revenue-generating countries for our digital music store. This insight enables us to focus our marketing efforts, localization strategies, and customer support resources on these regions to maximize revenue potential.
+
+*Popular Genres*: By examining customer preferences and purchase patterns, identified the most popular music genres among our customer base. This information can inform our content curation strategy, promotional campaigns, and collaborations with artists in those genres to cater to customer demands effectively.
+
+
+
+# Learnings
+1. Better and more in-depth understanding of Joins.
+2. Advanced analytical  i.e. CTE  & Recursive and aggregate functions.
+3. Brushed on some  basics like SELECT, GROUP BY, and HAVING clauses.
+
+
+
 
 # Easy Level Questions
 ![1](https://github.com/Inderpanda/Music-store-SQL-Project/assets/138003751/3aae867a-e03e-4c20-bb9c-e467e20be4bd)
