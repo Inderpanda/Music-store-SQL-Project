@@ -30,9 +30,9 @@ This project showcases how to analyze the Digital Music Store Database. I have e
 
 
 # Learnings
-✅ Developed a better and more in-depth understanding of Joins.
-✅ Explored advanced analytical techniques such as CTE and recursive and aggregate functions.
-✅ Strengthened grasp on some basics like SELECT, GROUP BY, and HAVING clauses.
+1. Developed a better and more in-depth understanding of Joins.
+2. Explored advanced analytical techniques such as CTE and recursive and aggregate functions.
+3. Strengthened grasp on some basics like SELECT, GROUP BY, and HAVING clauses.
 
 
 
